@@ -84,7 +84,7 @@ Raw observational data comes from the [**Climaterna** platform](https://redu.uni
 - Birth records (SINASC)
 - Death records (SIM)
 
-Raw files taken from the CLIMATERNA dataset are stored in: `observational_data/raw_CLIMATERNA_data/`
+Raw files taken from the CLIMATERNA dataset are stored in: `observational_data/raw_CLIMATERNA_data/`, within the folders `health` and `climate`
 
 
 
@@ -163,4 +163,5 @@ If you use or cite this data, please reference:
 ## Disclaimer
 
 This code was developed for academic research purposes as part of a master’s dissertation.
+
 It is **not intended for clinical or policy decision-making without further validation**.
